@@ -1,5 +1,9 @@
 # Hi, I'm Asma!
+#### **Egyptian Fulbright Scholar**
+#### **MS Computer Science (Artificial Intelligence) @ University of Southern California**
+#### **CPS VIDA Lab | LiraLab**
 
-🎓 I'm an Egyptian Fulbright Scholar and Master's student in Computer Science (AI specialization) at the University of Southern California. I'm currently working as a Research Assistant at the CPS VIDA Lab, advised by Prof. Jyotirmoy V. Deshmukh.
 
----
+🎓 I’m a graduate researcher specializing in intelligent autonomous systems and robotics integrating perception, temporal reasoning, and control. My research spans temporal reasoning for video understanding, human attention-guided robot learning, and vision language models for safety-critical applications.
+#### *Advised by Prof. Jyotirmoy V. Deshmukh and Prof. Erdem Biyik*
+
